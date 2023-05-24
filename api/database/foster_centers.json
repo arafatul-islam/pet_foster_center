@@ -1,0 +1,276 @@
+[{
+  "_id": {
+    "$oid": "63cce423b0bdb23b4791ab54"
+  },
+  "name": " ideal foster center",
+  "maxCount": "5",
+  "rentPerDay": "200",
+  "imageUrls": [
+    "https://images.unsplash.com/photo-1517451330947-7809dead78d5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "https://images.unsplash.com/photo-1522357262022-50fd510ac901?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1228&q=80",
+    "https://images.unsplash.com/photo-1583084592786-20dd406def99?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  ],
+  "currentBookings": [
+    {
+      "bookingID": {
+        "$oid": "63d29fad830192a94e86f566"
+      },
+      "fromDate": null,
+      "toDate": null,
+      "userID": "63d2567ff419fc36d09d43e3",
+      "status": "booked"
+    }
+  ],
+  "type": "cat",
+  "description": "best foster center in the city.",
+  "city": "rajshahi",
+  "__v": 3,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674747821529"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63ccefe1b0bdb23b4791ab55"
+  },
+  "name": " ctg foster center",
+  "maxCount": "5",
+  "rentPerDay": "200",
+  "imageUrls": [
+    "https://images.unsplash.com/photo-1517451330947-7809dead78d5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "https://images.unsplash.com/photo-1522357262022-50fd510ac901?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1228&q=80",
+    "https://images.unsplash.com/photo-1583084592786-20dd406def99?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  ],
+  "currentBookings": [
+    ""
+  ],
+  "type": "rabbit",
+  "description": "best foster center in the city.",
+  "city": "chittagong"
+},{
+  "_id": {
+    "$oid": "63ccefe8b0bdb23b4791ab56"
+  },
+  "name": " dhaka foster center",
+  "maxCount": "5",
+  "rentPerDay": "200",
+  "imageUrls": [
+    "https://images.unsplash.com/photo-1517451330947-7809dead78d5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "https://images.unsplash.com/photo-1522357262022-50fd510ac901?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1228&q=80",
+    "https://images.unsplash.com/photo-1583084592786-20dd406def99?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  ],
+  "currentBookings": [
+    ""
+  ],
+  "type": "others",
+  "description": "best foster center in the city.",
+  "city": "dhaka"
+},{
+  "_id": {
+    "$oid": "63cceff2b0bdb23b4791ab57"
+  },
+  "name": " rajshahi foster center",
+  "maxCount": "5",
+  "rentPerDay": "200",
+  "imageUrls": [
+    "https://images.unsplash.com/photo-1517451330947-7809dead78d5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "https://images.unsplash.com/photo-1522357262022-50fd510ac901?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1228&q=80",
+    "https://images.unsplash.com/photo-1583084592786-20dd406def99?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  ],
+  "currentBookings": [
+    ""
+  ],
+  "type": "dog",
+  "description": "best foster center in the city.",
+  "city": "coxbazar"
+},{
+  "_id": {
+    "$oid": "63d01889b68976ceb586da1e"
+  },
+  "name": "test",
+  "city": "chittagong",
+  "maxCount": 5,
+  "rentPerDay": 200,
+  "imageUrls": [
+    "url-1",
+    "url-2",
+    "url-3"
+  ],
+  "currentBookings": [],
+  "type": "cat",
+  "description": "description",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674582153269"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674582153269"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d2dfdc44aaacfe22376d39"
+  },
+  "name": "IIUC Foster Center",
+  "city": "Chittagong",
+  "maxCount": 30,
+  "rentPerDay": 200,
+  "imageUrls": [
+    "https://images.unsplash.com/photo-1565190462842-d57a3e05de48?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=723&q=80",
+    "https://images.unsplash.com/photo-1565190462842-d57a3e05de48?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=723&q=80",
+    "https://images.unsplash.com/photo-1565190462842-d57a3e05de48?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=723&q=80"
+  ],
+  "currentBookings": [],
+  "type": "cat",
+  "description": "all kind of cats can be fostered here.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674764252170"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674764252170"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d2dfe144aaacfe22376d3b"
+  },
+  "name": "IIUC Foster Center",
+  "city": "Chittagong",
+  "maxCount": 30,
+  "rentPerDay": 200,
+  "imageUrls": [
+    "https://images.unsplash.com/photo-1565190462842-d57a3e05de48?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=723&q=80",
+    "https://images.unsplash.com/photo-1565190462842-d57a3e05de48?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=723&q=80",
+    "https://images.unsplash.com/photo-1565190462842-d57a3e05de48?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=723&q=80"
+  ],
+  "currentBookings": [],
+  "type": "cat",
+  "description": "all kind of cats can be fostered here.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674764257314"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674764257314"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d341dcae6a3135bcfb1e9a"
+  },
+  "name": "South Foster Center",
+  "city": "chittagong",
+  "maxCount": 5,
+  "rentPerDay": 200,
+  "imageUrls": [
+    "https://plus.unsplash.com/premium_photo-1661508614319-b5e40d1143bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "https://plus.unsplash.com/premium_photo-1661508614319-b5e40d1143bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "https://plus.unsplash.com/premium_photo-1661508614319-b5e40d1143bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  ],
+  "currentBookings": [],
+  "type": "cat",
+  "description": "south foster center",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674789340844"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674789340844"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d3420bae6a3135bcfb1e9c"
+  },
+  "name": "South East Foster Center",
+  "city": "chittagong",
+  "maxCount": 5,
+  "rentPerDay": 200,
+  "imageUrls": [
+    "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1143&q=80",
+    "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1143&q=80",
+    "https://plus.unsplash.com/premium_photo-1661508614319-b5e40d1143bb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  ],
+  "currentBookings": [],
+  "type": "cat",
+  "description": "south foster center",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674789387883"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674789387883"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d34278ae6a3135bcfb1ea8"
+  },
+  "name": "foster center chittagong",
+  "city": "coxbazar",
+  "maxCount": 5,
+  "rentPerDay": 200,
+  "imageUrls": [
+    "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1143&q=80",
+    "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1143&q=80",
+    "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1143&q=80"
+  ],
+  "currentBookings": [],
+  "type": "cat",
+  "description": "One of the best foster center in the city",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674789496117"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674789496117"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d3440bae6a3135bcfb1ec8"
+  },
+  "name": "Bird Care House",
+  "city": "chittagong",
+  "maxCount": 120,
+  "rentPerDay": 100,
+  "imageUrls": [
+    "https://images.unsplash.com/photo-1552728089-57bdde30beb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80",
+    "https://images.unsplash.com/photo-1552728089-57bdde30beb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80",
+    "https://images.unsplash.com/photo-1552728089-57bdde30beb3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80"
+  ],
+  "currentBookings": [],
+  "type": "bird",
+  "description": "Bird Care for your little lovely bird.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674789899546"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674789899546"
+    }
+  },
+  "__v": 0
+}]

@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "63d105fee600c20d8cb57997"
+  },
+  "name": "Jonokollan Pharmacy",
+  "phone": "01814943285",
+  "address": "Dewanhut",
+  "city": "Chittagong",
+  "map": "https://goo.gl/maps/usdEj2QgpwfW9gpo8",
+  "image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Sci2WMvKqHD4Tl-cLBhrCw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=225.94434&pitch=0&thumbfov=100",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d10896e600c20d8cb57a03"
+  },
+  "name": "Comfort vet Pharmacy",
+  "phone": "01319036189",
+  "address": "Wireless moor",
+  "city": "chittagong",
+  "map": "https://goo.gl/maps/15iA9zrF8NcmCixA6",
+  "image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Aq8c9XEJRJjECnYeCEnDPw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=197.44345&pitch=0&thumbfov=100",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d108e0e600c20d8cb57a05"
+  },
+  "name": "shanti pharmacy",
+  "phone": "01712157626",
+  "address": "2nd Floor, Hazari Lane, Chittagong New Railway Station, Anderkilla, ",
+  "city": "Chittagong",
+  "map": "https://goo.gl/maps/dtnayqUui3SNXAYX9",
+  "image": "https://lh5.googleusercontent.com/tGsYU-TUpIqJib5kWFRMOZbAyJZh5q4rPebdlzTqFvSRCu1ogTOJdsG16wJHtmkF1w=w426-h240-k-no",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d1092be600c20d8cb57a07"
+  },
+  "name": "Axon Animal Health",
+  "phone": "N/A",
+  "address": "Noya Bazar",
+  "city": "Chittagong",
+  "map": "https://goo.gl/maps/v3kNXpDnFqrkbkc8A",
+  "image": "https://lh5.googleusercontent.com/p/AF1QipNNhRTuD3Yepy1aA7Q0BiXelFGfW0B_Q0LaI9o=w408-h306-k-no",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d10973e600c20d8cb57a09"
+  },
+  "name": "Chowdhury Drug House-VET",
+  "phone": "01794799599",
+  "address": "Banasree - Staff Quarter - Demra Rd, ",
+  "city": "dhaka",
+  "map": "https://goo.gl/maps/4Z41BxSucSoKmeWq7",
+  "image": "https://lh5.googleusercontent.com/p/AF1QipND1IaekE99tNbcYmFjwKuIt3XMRGa6oAf1kmZB=w426-h240-k-no",
+  "__v": 0
+}]

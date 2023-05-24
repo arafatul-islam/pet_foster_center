@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "63d222748aa9058909c1032e"
+  },
+  "members": [
+    null,
+    null
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674715764811"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674715764811"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d222a98aa9058909c10330"
+  },
+  "members": [
+    "1234",
+    "12345"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674715817974"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674715817974"
+    }
+  },
+  "__v": 0
+}]

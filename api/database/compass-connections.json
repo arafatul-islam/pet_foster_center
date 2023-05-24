@@ -1,0 +1,23 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "5b700122-0836-463d-bf0b-417954d23865",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://final-defense-project:%3Cpassword%3E@cluster0.cdynkgr.mongodb.net/?retryWrites=true&w=majority"
+      },
+      "favorite": {
+        "name": "final-defense-project",
+        "color": "color3"
+      },
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1675490602295"
+        }
+      }
+    }
+  ]
+}

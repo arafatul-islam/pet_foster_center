@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "63d0ccbea550c342a91f391b"
+  },
+  "name": "Versele Laga Lara Junior Cat Food Chicken 2kg",
+  "catagory": "cat food",
+  "price": 850,
+  "imageUrls": [
+    "https://mewmewshopbd.com/wp-content/uploads/2020/10/lara-junior.png"
+  ],
+  "type": "cat",
+  "description": "The chunks are well balanced and contain all the necessary minerals and vitamins to make your kitten grow into a mature and healthy cat. The shape of the small chunks also ensures excellent ingestion.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674628286948"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674628286948"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0cdf3a550c342a91f3962"
+  },
+  "name": "Smartheart Kitten Dry Food Chicken, Fish, Egg & Milk 450g",
+  "catagory": "cat food",
+  "price": 250,
+  "imageUrls": [
+    "https://mewmewshopbd.com/product/smartheart-kitten-dry-food-chicken-fish-egg-milk-450g/#&gid=1&pid=1"
+  ],
+  "type": "cat",
+  "description": "Smartheart Dry Cat Food",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674628595948"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674628595948"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0ce56a550c342a91f3964"
+  },
+  "name": "Ordelyte Pet Electrolyte Supplement For Dogs & Cats",
+  "catagory": "medicine",
+  "price": 100,
+  "imageUrls": [
+    "https://mewmewshopbd.com/product/ordelyte-pet-electrolyte-supplement-for-dogs-cats/#&gid=1&pid=1"
+  ],
+  "type": "medicine",
+  "description": " Vitamin & Supplements",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674628694709"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674628694709"
+    }
+  },
+  "__v": 0
+}]

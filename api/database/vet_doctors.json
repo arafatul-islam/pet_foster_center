@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "63d0f677a1aa60c147af8a63"
+  },
+  "name": "Dr. Mohammad Mamunur Rashid",
+  "phone": "01725808534",
+  "address": "Central Veterinary Hospital",
+  "city": "dhaka",
+  "map": "https://goo.gl/maps/zmCpCY2wtkSZifVY7",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f6c0a1aa60c147af8a65"
+  },
+  "name": "Dr. Arifur Rabbi",
+  "phone": "01785636036",
+  "address": "Ta 173/2 Lake view road, Godara ghat to Hatirjheel Road, Dhaka 1212",
+  "city": "dhaka",
+  "map": "https://g.page/the-pet-vet-bd?share",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f6f2a1aa60c147af8a67"
+  },
+  "name": "Dr. Sagir Uddin Ahmed",
+  "phone": "01912251312, 01752987436, 01706214759",
+  "address": "Dhanmondi Chamber/Clinic: House 3/2, Block D, Lalmatia Dhaka 1207, Bangladesh Gulshan Chamber/Clinic: House # 21, Road # 6, Block # D, Niketon, Gulshan 1, Dhaka",
+  "city": "dhaka",
+  "map": "https://g.page/VetDr-Sagir?share",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f71ca1aa60c147af8a69"
+  },
+  "name": "Dr. Md. Mahbubul Alam Bhuiyan",
+  "phone": "01711146012",
+  "address": "Central Veterinary Hospital,Chamber Address: 67/2, North Bashaboo, Khilgaon, Dhaka.",
+  "city": "dhaka",
+  "map": "https://goo.gl/maps/zmCpCY2wtkSZifVY7",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f753a1aa60c147af8a6b"
+  },
+  "name": "Dr. Siamak Shamsi Bahar",
+  "phone": "01711561155",
+  "address": "H-56, R-9/B, Sector: 5, Uttara.",
+  "city": "dhaka",
+  "map": "https://goo.gl/maps/zmCpCY2wtkSZifVY7",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f77aa1aa60c147af8a6d"
+  },
+  "name": "Dr. Azmat Ali",
+  "phone": "01912013615, 01715078434",
+  "address": "Gulshan Pet-Animal Clinic (A-Z Pet Animal Solution in Dhaka) 4-5 DCC Super Market, Gulshan-2, Dhaka-1212",
+  "city": "dhaka",
+  "map": "https://goo.gl/maps/ZE51c1YH5Vyx9bgA6",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f7aba1aa60c147af8a6f"
+  },
+  "name": "Dr. Kazi Mujibur Rahman",
+  "phone": "01715016218",
+  "address": "Chief vet, Central Veterinary Hospital, Dhaka",
+  "city": "dhaka",
+  "map": "https://goo.gl/maps/Nwtv5TsGGY81dKRa9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d0f834a1aa60c147af8a71"
+  },
+  "name": "Dr. Lf. Col Shahjada",
+  "phone": "01711123288",
+  "address": "Bangladesh Army (vet)",
+  "city": "chittagong",
+  "map": "https://goo.gl/maps/2ZBV47BwdMEjihyq7",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d10522e600c20d8cb57920"
+  },
+  "name": "",
+  "phone": "",
+  "address": "",
+  "city": "",
+  "map": "",
+  "__v": 0
+}]

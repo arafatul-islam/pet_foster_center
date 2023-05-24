@@ -1,0 +1,153 @@
+[{
+  "_id": {
+    "$oid": "63d23a19ceb6573601957c95"
+  },
+  "username": "arafat",
+  "email": "arafat@mail.com",
+  "password": "$2a$10$UdVUxseAzInRhAtCZJInc..9oZPerbj5EK3/BHdwbHbG0D2Y6PMaq",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674721817631"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674721817631"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d23d908f5c520261394f17"
+  },
+  "username": "mahdi",
+  "email": "mahdi@gmail.com",
+  "password": "1234567",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674722704817"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674722704817"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d246dbac602bfa7d7c80f9"
+  },
+  "username": "tutsnode",
+  "email": "tutsnode@gmail.com",
+  "password": "123456789",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674725083441"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674725083441"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d2471a13601b3965d21825"
+  },
+  "username": "text",
+  "email": "text@gmail.com",
+  "password": "1234567890",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674725146440"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674725146440"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d247a620201988e7acb843"
+  },
+  "username": "tetra",
+  "email": "tetra@gmail.com",
+  "password": "1234567",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674725286892"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674725286892"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d2493183074e8652482346"
+  },
+  "username": "penta",
+  "email": "penta@gmail.com",
+  "password": "$2a$10$WvrPpnQN5OmYQMc6v4GIGeYQvbcks/h.JKSeewEZQsTQUOtiptiGG",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674725681482"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674725681482"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d253df4e9ad2b52bf50345"
+  },
+  "username": "arafatiiuc",
+  "email": "arafatiiuc@gmail.com",
+  "password": "$2a$10$VzpUj0eVksk3oX6v.oICM.bxFh1oMmGbX1632L/Gt1bfZoagD02Ri",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674728415518"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674728415518"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63d2567ff419fc36d09d43e3"
+  },
+  "username": "iiuctest",
+  "email": "iiuctest@mail.com",
+  "password": "123456",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1674729087621"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1674729087621"
+    }
+  },
+  "__v": 0
+}]
